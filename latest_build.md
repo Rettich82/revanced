@@ -1,11 +1,11 @@
-2022-10-13
+2022-10-15
   
 CLI: revanced-cli-2.14.1-all.jar  
-Integrations: app-release-unsigned-v0.51.1.apk  
-Patches: revanced-patches-2.82.0.jar  
-[Patches Changelog](https://github.com/inotia00/revanced-patches/releases/tag/v2.82.0)  
+Integrations: app-release-unsigned-v0.51.2.apk  
+Patches: revanced-patches-2.82.1.jar  
+[Patches Changelog](https://github.com/inotia00/revanced-patches/releases/tag/v2.82.1)  
 
-YouTube version: 17.40.40  
+YouTube version: 17.40.41  
 
 Music (arm64-v8a) version: 5.28.51  
 
